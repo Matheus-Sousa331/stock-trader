@@ -33,6 +33,7 @@ export default {
                 qunatity: this.quantity
             }
 
+            // eslint-disable-next-line
             console.log(order)
             this.quantity = 0
         }
